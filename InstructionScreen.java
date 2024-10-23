@@ -11,8 +11,8 @@ public class InstructionScreen extends World {
         this.menu = menu;
         instructions = new String[]{
             "Welcome to the game!",
-            "Use arrow keys to move.",
-            "Press space to jump."
+            "information Screen # 1",
+            "information Screen # 2"
         };
         index = 0;
 
